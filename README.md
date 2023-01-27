@@ -26,7 +26,7 @@ Run the program to determine the number of words in the file created
 ## PROGRAM:
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: kaviya shree
-RegisterNumber: 22004880
+RegisterNumber: 22002839
 import sys
 count = 0
 with open(sys.argv[1],'r')as f1:
